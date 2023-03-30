@@ -1,7 +1,5 @@
 # How to Use ChatGPT and Generative AI for Passive Income
 
-### Learn how to harness the power of ChatGPT and AI to generate passive income and create profitable online ventures through writing, coding, digital art, and more
-
 This is the code repository for **How to Use ChatGPT and Generative AI for Passive Income**, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## About Course
