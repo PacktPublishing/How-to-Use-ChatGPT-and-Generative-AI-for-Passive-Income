@@ -1,0 +1,1 @@
+# How-to-Use-ChatGPT-and-Generative-AI-for-Passive-Income
